@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Bookstore Demo
 React Demo app
 
