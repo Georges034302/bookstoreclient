@@ -1,0 +1,20 @@
+.searchDiv {
+    display: "inline-block";
+    position: "absolute";
+    border: "2px solid #0070FF";
+    right: 55;
+    top: 90;
+}
+
+.searchInputs {
+    position: "absolute";
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    width: 30%;
+    height: 30px;
+}
+
+input:focus {
+    outline: none;
+}
